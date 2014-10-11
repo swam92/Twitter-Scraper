@@ -1,0 +1,1 @@
+A multi-threaded, safe and efficient way to automate twitter messages.  Uses twitter API and tweepy to access twitter servers
